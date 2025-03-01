@@ -5,7 +5,7 @@ class Poo:
 
     def __init__(self, name):
         self.nome = name
-        self.fome = 0
+        self.fome = 5
         self.felicidade = 5
 
     def alimentar(self):
